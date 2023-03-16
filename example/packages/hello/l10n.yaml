@@ -1,0 +1,9 @@
+arb-dir: lib/src/strings
+template-arb-file: strings_en.arb
+
+output-dir: lib/src/strings
+output-localization-file: strings.dart
+output-class: HelloStrings
+
+synthetic-package: false
+nullable-getter: false
