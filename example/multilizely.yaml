@@ -1,0 +1,12 @@
+localizely_project_id: #project_id
+project_key: multilizely
+
+locales:
+  en:
+  es:
+
+packages:
+  hello:
+    path: packages/hello
+  world:
+    path: packages/world
