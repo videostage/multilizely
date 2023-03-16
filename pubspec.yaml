@@ -2,7 +2,7 @@ name: multilizely
 description:
   A Command Line Interface for working with Localizely in flutter projects
   that contain multiple l10n.yaml files.
-version: 0.0.2
+version: 0.0.3
 repository: https://github.com/videostage/multilizely
 issue_tracker: https://github.com/videostage/multilizely/issues
 
